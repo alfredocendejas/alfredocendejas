@@ -24,10 +24,10 @@
 ## Building
 
 <div align="center">
-<a href="https://recompensarte.vercel.app"><img src="assets/cards/recompensarte.svg?v=1" width="47%" alt="Recompensarte" /></a>
-<a href="https://github.com/milktechio/NotchHub"><img src="assets/cards/notchhub.svg?v=1" width="47%" alt="NotchHub" /></a>
-<a href="https://github.com/milktechio/Mac-Sweeper"><img src="assets/cards/macsweeper.svg?v=1" width="47%" alt="Mac Sweeper" /></a>
-<a href="https://github.com/milktechio/siliconAI"><img src="assets/cards/siliconai.svg?v=1" width="47%" alt="Silicon AI" /></a>
+<a href="https://recompensarte.com"><img src="assets/cards/recompensarte.svg?v=1" width="47%" alt="Recompensarte" /></a>
+<a href="https://alfredocendejas.com/shop"><img src="assets/cards/notchhub.svg?v=1" width="47%" alt="NotchHub" /></a>
+<a href="https://alfredocendejas.com/shop"><img src="assets/cards/macsweeper.svg?v=1" width="47%" alt="Mac Sweeper" /></a>
+<a href="https://alfredocendejas.com/shop"><img src="assets/cards/siliconai.svg?v=1" width="47%" alt="Silicon AI" /></a>
 </div>
 
 ## Stack
