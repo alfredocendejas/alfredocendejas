@@ -10,11 +10,7 @@
 <a href="https://milktech.io"><img src="assets/cards/subtitle-founder.svg?v=1" height="21" alt="Founder · Milktech" /></a>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfredocendejas/alfredocendejas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfredocendejas/alfredocendejas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alfredocendejas/alfredocendejas/output/github-snake-dark.svg" />
-</picture>
+<img src="assets/cards/terminal.svg?v=1" width="96%" alt="Terminal: whoami → Alfredo Cendejas · Senior Tech Project Manager · Founder @ Milktech" />
 </div>
 
 <div align="center">
@@ -31,6 +27,10 @@
 </div>
 
 ## Stack
+
+<div align="center">
+<img src="assets/cards/network.svg?v=1" width="96%" alt="From stack to shipped products" />
+</div>
 
 <div align="center">
 <img src="assets/cards/stack.svg?v=1" width="96%" alt="Tech stack" />
