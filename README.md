@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Tech+Project+Manager;Founder+@+Milktech;Web3+%26+AI+solutions+from+Jalisco,+Mexico;Building+native+macOS+apps+with+on-device+AI&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&size=20&pause=1000&duration=3000)](https://github.com/alfredocendejas)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Tech+Project+Manager;Founder+@+Milktech;Web3+%26+AI+solutions+from+Jalisco,+Mexico;Building+native+macOS+apps+with+on-device+AI&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&size=20&pause=1000&duration=3000)](https://alfredocendejas.com)
 
 </div>
 
